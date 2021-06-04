@@ -1,0 +1,1 @@
+Given and array of non-negative integers, count the number of unordered pairs of array elements such that their bitwise AND is a power of 2

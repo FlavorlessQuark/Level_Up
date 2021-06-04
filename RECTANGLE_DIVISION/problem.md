@@ -1,0 +1,3 @@
+GIven a rectangle. add vertical and horizontal separators at various locations. Determine the are of the largest open space after each line is added. Return these values in an array.
+
+Program input should be : int width, int height, bool  *isVertical, int *distance where: width, height are the dimensions of the rectangle, is vertical is a bool array whose values determine whthere the ith line is vertical or horizontal, distance is an int array whose values determine the distance of the line from the left or botom boundary of the rectangle.
